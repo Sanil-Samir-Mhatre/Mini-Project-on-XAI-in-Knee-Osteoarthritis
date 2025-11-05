@@ -18,6 +18,7 @@ level to the severe level, where the greater the degree of severity, the smaller
 the spacing of the joint.
 
 - KL score:
+  
     - Grade 0: Healthy
     - Grade 1: Doubtful 
     - Grade 2: Minimal 
